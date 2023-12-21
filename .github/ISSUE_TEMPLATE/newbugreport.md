@@ -1,3 +1,4 @@
+---
 name: Bug Report
 about: SE234-Lab04
 description: File a bug report
@@ -63,7 +64,7 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true
     
-
+---
 
 
 
