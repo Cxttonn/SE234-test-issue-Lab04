@@ -2,7 +2,7 @@
 name: Bug Report
 about: SE234-Lab04
 description: File a bug report
-title: " [Bug] "
+title: " [Bug]: "
 labels: ["bug" , "triage"]
 projects: ["octo-org/1" , "octo-otg/44"]
 assignees:
