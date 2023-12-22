@@ -9,7 +9,8 @@ assignees:
 body:
   - type: markdown
     attributes:
-    value: Thanks for taking all time to fill out this bug report!
+    value: |
+    Thanks for taking all time to fill out this bug report!
   - type: input
     id: contact
     attributes:
