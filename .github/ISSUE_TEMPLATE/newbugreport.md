@@ -5,7 +5,7 @@ description: File a bug report
 title: " [Bug] "
 labels: ["octo-org/1" , "octo-otg/44"]
 assignees:
-  - octocat
+    octocat
 body:
   - type: markdown
     attributes:
