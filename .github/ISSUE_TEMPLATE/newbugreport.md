@@ -1,5 +1,3 @@
-Lab04 1.2
-
 ---
 name: Bug Report
 description: File a bug report
